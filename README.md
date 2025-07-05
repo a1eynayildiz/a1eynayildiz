@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Aleyna Yıldız</h1>
 <h3 align="center">A computer engineering student interested in backend development</h3>
 
----
 
 ### 🌱 Currently Learning
 
@@ -13,8 +12,8 @@
 - Celery & Background Task Management  
 - Building full-stack apps step by step  
 
----
----
+
+
 ### 📫 Connect with Me
 
 <p align="left">
@@ -27,7 +26,7 @@
 </p>
 
 
----
+
 
 ### 🛠️ Languages and Tools
 
@@ -35,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscode,postman" />
 </p>
 
----
 
 ### 📊 GitHub Stats & Snake Contribution
 
@@ -45,7 +43,6 @@
 
 
 
----
 
 
 
