@@ -6,11 +6,6 @@
 <h3 align="center">A computer engineering student interested in backend development</h3>
 
 
-### 🌱 Currently Learning
-
-- Django & Django REST Framework  
-- Celery & Background Task Management  
-- Building full-stack apps step by step  
 
 
 
