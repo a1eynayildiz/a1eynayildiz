@@ -43,7 +43,8 @@
 </p>
 
 
-![Visitor Count](https://profile-counter.glitch.me/a1leynayildiz/count.svg)
+![](https://komarev.com/ghpvc/?username=a1eynayildiz&label=Profile%20views&color=blue&style=flat)
+
 
 
 
