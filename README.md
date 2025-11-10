@@ -43,6 +43,7 @@
 </p>
 
 
+![Visitor Count](https://profile-counter.glitch.me/a1leynayildiz/count.svg)
 
 
 
