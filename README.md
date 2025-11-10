@@ -34,7 +34,7 @@
   </a>
 </p>
 
-### 📬 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/aleynayildiz1" target="_blank">
@@ -46,7 +46,7 @@
 </p>
 
 
-### 📊 GitHub Stats 
+##  GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a1eynayildiz&show_icons=true&theme=tokyonight" alt="stats"/>
@@ -55,12 +55,12 @@
 
 
 
-## 🔥 Streak Stats
+## Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1eynayildiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=a1eynayildiz&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 📚 Most Used Languages
+###  Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1eynayildiz&layout=compact&theme=tokyonight" width="450"/>
