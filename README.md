@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=a1eynayildiz&color=6f42c1&style=for-the-badge)
+
 <p align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" width="500"/>
 </p>
@@ -6,8 +8,31 @@
 <h3 align="center">A computer engineering student interested in backend development</h3>
 
 
+## Languages and Tools
 
-
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  </a>
+  <a href="https://www.djangoproject.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  </a>
+</p>
 
 ### 📬 Connect with Me
 
@@ -21,20 +46,21 @@
 </p>
 
 
-
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscode,postman" />
-</p>
-
-
 ### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a1eynayildiz&show_icons=true&theme=tokyonight" alt="stats"/>
   <br>
+  
+
+
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ### 📚 Most Used Languages
 
@@ -43,7 +69,6 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=a1eynayildiz&label=Profile%20views&color=blue&style=flat)
 
 
 
