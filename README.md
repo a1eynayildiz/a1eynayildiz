@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=a1eynayildiz&color=6f42c1&style=for-the-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=a1eynayildiz.a1eynayildiz)
 
 <p align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" width="500"/>
