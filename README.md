@@ -77,4 +77,4 @@
 
 ![snake gif](https://raw.githubusercontent.com/a1eynayildiz/a1eynayildiz/output/github-contribution-grid-snake.svg)
 
-<p align="center">✨ Thanks for visiting! ✨</p>
+
