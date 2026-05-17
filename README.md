@@ -83,12 +83,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=a1eynayildiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a1eynayildiz&theme=tokyonight" />
   <img height="180" src="https://streak-stats.demolab.com?user=a1eynayildiz&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1eynayildiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a1eynayildiz&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a1eynayildiz&theme=tokyonight" />
 </p>
 
 ---
@@ -108,11 +109,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
-
-<p align="center">
-  ⭐ <i>Thanks for stopping by — feel free to explore my repos!</i> ⭐
-</p>
