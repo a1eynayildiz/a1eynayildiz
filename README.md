@@ -20,8 +20,7 @@
 - 🌱 Currently deepening my knowledge of **ASP.NET Core**, **Django REST Framework**, and **SQL optimization**
 - 🛠️ Working on small but meaningful projects — task managers, blog systems, hospital management
 - ✍️ I occasionally write on [Medium](https://medium.com/@aleynayildizz) about what I learn
-- 💡 I believe in *learning by building* — every repo here is a step in that journey
-- ⚡ Fun fact: I love turning a messy database schema into a clean, working API
+
 
 ---
 
@@ -71,7 +70,7 @@
   <a href="https://medium.com/@aleynayildizz">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aleynayildizc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
