@@ -99,7 +99,7 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/a1eynayildiz/a1eynayildiz/output/github-contribution-grid-snake.svg" />
