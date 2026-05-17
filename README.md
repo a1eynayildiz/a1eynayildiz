@@ -1,9 +1,3 @@
-
-
-<p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" width="500"/>
-</p>
-
 <h1 align="center">Hi there, I'm Aleyna Yıldız 👋</h1>
 
 <p align="center">
@@ -79,7 +73,7 @@
   <a href="https://medium.com/@aleynayildizz">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:aleynayildizc@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -89,12 +83,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=a1eynayildiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=a1eynayildiz&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=a1eynayildiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="180" src="https://streak-stats.demolab.com?user=a1eynayildiz&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1eynayildiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1eynayildiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
@@ -103,14 +97,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=a1eynayildiz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a1eynayildiz&theme=tokyo-night&hide_border=true&area=true&custom_title=Aleyna's%20Contribution%20Graph" />
 </p>
 
 ---
@@ -130,15 +116,3 @@
 <p align="center">
   ⭐ <i>Thanks for stopping by — feel free to explore my repos!</i> ⭐
 </p>
-
-
-
-
-
-
-
-
-
-![snake gif](https://raw.githubusercontent.com/a1eynayildiz/a1eynayildiz/output/github-contribution-grid-snake.svg)
-
-
