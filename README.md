@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Aleyna Yıldız 👋</h1>
-
 <p align="center">
   <a href="https://github.com/a1eynayildiz">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Backend+Developer+in+the+making;Python+%7C+C%23+%7C+Django+%7C+ASP.NET;Always+curious%2C+always+learning+%F0%9F%93%9A" alt="Typing SVG" />
