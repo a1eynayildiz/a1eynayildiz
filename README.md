@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering student at **Düzce University**
+- 🎓 Computer Engineering student at **Duzce University**
 - 💻 Passionate about **Backend Development**, clean architecture, and writing maintainable code
 - 🌱 Currently deepening my knowledge of **ASP.NET Core**, **Django REST Framework**, and **SQL optimization**
 - 🛠️ Working on small but meaningful projects — task managers, blog systems, hospital management
@@ -90,12 +90,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a1eynayildiz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
 
 ---
 
