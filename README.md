@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a1eynayildiz&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
-  <a href="https://github.com/a1eynayildiz?tab=followers">
-    <img src="https://img.shields.io/github/followers/a1eynayildiz?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
